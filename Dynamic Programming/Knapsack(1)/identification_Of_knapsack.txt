@@ -1,0 +1,17 @@
+🌟 Identification of the Knapsack
+Input
+wt []
+val []
+-------
+item [] ----> this is the item array having 2 property wt and val
+capacity of Knapsack
+
+
+
+🌟1. Types of Knapsack Problem
+1. Subset sub
+2. Equal sum partition
+3. count of subset sum
+4. Minimum Subset sum Difference 
+5. Target sum
+6. No of subset of given difference

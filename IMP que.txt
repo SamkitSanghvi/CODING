@@ -1,0 +1,22 @@
+In summary,
+1. LRU Cache Problem
+    - Hashmaps
+    - Doubly linked list
+2. Allocate Minimum no of pages / Painters Partition Problem
+    - Binary Search on answer
+3. Min cost problem
+    - DP-Matrix problems
+    - Matrix problems
+    - DFS / BFS problems
+4. Longest common subsequence (DP)
+    - longest common substring
+5. Knapsack problem (DP)
+    - Subset sum problem
+6. Matrix Chain Multiplication (DP)
+    - Very common concept for many problems
+7. Flatten a linked list
+    - usually there is next pointer in LinkedList, but here there is bottom pointer concept
+8. Merge 2 sorted Linked List
+9. Graph Algorithms
+   - DFS, BFS, Prim's, Kruskal's, Dijkstra's, Bellman Ford's
+10. Find the largest BST (Binary Trees)

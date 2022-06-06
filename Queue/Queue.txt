@@ -1,0 +1,11 @@
+It follow FIFO Principle First In First Out
+
+// Operations Using Queue
+enqueue() :- Insert an element at back :- Push()
+dequeue() :- Remove an element from front :- pop()
+peek() :- Return the value at front
+empyt() :- return the queue is empty ot not
+
+Two Pointer :- front and back 
+front :- Remove
+back :- Add

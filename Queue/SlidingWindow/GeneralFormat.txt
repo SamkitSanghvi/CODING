@@ -1,0 +1,38 @@
+Fixed Size Window Size
+
+while(j < n ){
+    calculation 
+
+    if(winSize < k)
+    j++;	
+
+    else if(winSize == k){
+        1. ans <<- Calculation
+        2. calculation remove i
+        3. window size maintain and slide 
+    }
+}
+
+
+Variable Window size 
+in variable window size we don't maintain the Window size..
+
+while(j<n){ 
+    calculation 
+
+    if(contd < k)
+    j++;
+
+    else if(contd == k){ 
+    ans <- calculation
+    j++;
+    }
+
+    else if(contd > k){ 
+        while(contd > k){
+            remove calculation for i;
+            i++;
+        }
+    }
+}
+

@@ -1,0 +1,32 @@
+1.  Simple Binary Search
+2.  Order Agonist Binary Search
+3.  1st and last occurence of an element
+4.  Count of elements in Sorted Array
+5.  No of Times Array is Rotated
+6.  Find the Element in Rotated Array
+7.  Searching in Nearly Sorted Array
+8.  Floor and Ceil of the Element
+9.  Next Letter 
+10. Index of last 1 in Sorted Array
+11. Find the position of the Element in Infinite Sorted Array
+12. min difference element in Sorted Array
+13. Bironic Array Maximum Element
+14. Search in the Bironic Array
+15. Search in Row Wise Column wise Sorted Matrix
+16. Find the Element in Sorted Array that appear once
+17. Allocate minimun no of pages
+    17.1    Book Allocation Problem.
+    17.2    Aggressive Cows
+    17.3    Prata and Roti
+    17.4    EKo
+    17.5    Painter Partition Problem.
+    17.6    Minimum no of days to make bouqute(1482)
+    17.7    Find Smallest Divison Greater than Threshold(1283)
+    17.8    Divide Chocholate(1231)
+    17.9    Capacity of Ship D packages(1011)
+    17.10   Koko Eating Banana(875)
+    17.11   Max Station to Gas Station(774)
+    17.12   Split Array Largest Sum(410)
+
+Binary Search on an Answer 
+January Lunchtime Prefix Zero....

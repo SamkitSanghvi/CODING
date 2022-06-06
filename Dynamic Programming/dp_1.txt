@@ -1,0 +1,71 @@
+DYNAMIC PROGRAMMING
+
+Memoization along with recursive is itself the TOPDOWN approach. Iterative is called Bottom-up. 
+
+1. Top-Down Approach
+The top-down approach follows the memorization technique. It consists of two distinct events: recursion and caching. ‘Recursion’ represents the process of computation by calling functions repeatedly, whereas ‘caching’ represents the storing of intermediate results.
+
+Advantages
+Easy to understand and implement
+Solves the subproblem only if the solution is not memorized.
+Debugging is easier.
+
+
+Disadvantages
+Uses recursion, which takes up more memory space in the call stack, degrading the overall performance.
+Possibility of a stack overflow error.
+
+
+2. Bottom-Up Approach
+This approach uses the tabulation technique to implement the dynamic programming solution. It addresses the same problems as before, but without recursion. The recursion is replaced with iteration in this approach. Hence, there is no stack overflow error or overhead of recursive procedures. We maintain a table (3D matrix) to solve the problem in this method.
+
+
+DP = Recursion + Storage
+
+🌟 Identification of the Dynamic Programming 
+DP :- Enhanced Recursion
+1. choice
+Probablity 2-> call in recursion 
+
+2. optimal (largest/maximum/minimum)
+Recursive---->Memoize----->Top-Down
+
+3. Pattern
+
+🌟Types of Problem of DP (Parent Problem)
+Easy --- Medium
+1. 0-1 Knapsack (6)
+2. unbound knapsack(5)
+3. fibonacci (7)
+4. LCS (15) (Longest Common Subsequence)
+5. LIS (10) (Longest Increasing SubSequence)
+6. Kandanes Algorithm (6)
+7. Matrix chain Multiplication (7) [Important]
+9. DP on Grid (14)
+10. others (5)
+
+Medium---Hard 
+8.  DP on trees (4)
+9.  DP Kth-Lexicographic String 
+10. DP+BitMasking
+11. DP + Bit/Segment Tree
+12. DP + Trie
+13. Dp + Binary Search 
+14. Dp + Knuth Optimization  
+
+1. Knapsack Problem is of 3 Types 
+--> Fractional Knapsack
+--> 0/1 Knapsack
+--> Unbounded Knapsack
+
+
+🌟1. Types of Knapsack Problem
+1. Subset sub
+2. Equal sum partition
+3. count of subset sum
+4. Minimum Subset sum Difference 
+5. Target sum
+6. No of subset of given difference
+
+
+

@@ -1,0 +1,94 @@
+1. Do the Decicsion small
+2. Recursion :- Decision Space (Identification)
+        Choise + Decision
+3. Recursive Tree. -> IMP -> Problem Will be Easy.....
+
+
+We have 2 choise either include or not to include...
+
+             a       b       c
+
+" "         0       0       0          
+
+a           1       0       0
+
+b           0       1       0
+
+C           0       0       1
+
+ab          1       1       0
+
+ac          1       0       1
+
+bc          0       1        1
+
+abc         1       1       1
+
+
+
+
+
+*** Input-Output Method ***
+Input is Given and Initializes the Output 
+
+
+// Ip - op Method 
+1.  Print 1 to n and n to 1
+2.  Sort an array/Stack
+3.  Delete Middile Element of a stack
+4.  Remove Duplication of String
+5.  Subset 
+6.  count the Occurence
+7.  Permutations -> spaces
+                 -> case Arrange
+8.  Josephus Problem / Exprestion in ole 
+
+
+// Extented IP-OP
+1. Binary String no of 1 > no of 0
+2. Generate Balanced Parantheses
+
+
+// popular Problem
+1. Tower of Hanoi
+2. Coin change
+3. Egg Dropping
+4. Generating All permutations
+5. Rat in Maze
+6. N-queen
+7. Subset sum
+
+
+
+// Base-Control - Hypothesis - Induction 
+
+
+4 Approaches
+1. Recursive Tree (Decision)
+2. Base Condition - Induction- Hypothesis 
+3. Choise Diagram - Induction- Hypothesis
+
+
+While the function is not finished exceuting it will remain in Stack...
+
+When a Function finished exceuting it will be removed from the stack and the flow of progrma will be restored   
+
+You can convert Recursion solution into iteration & vice versa... 
+Space Complexcity 
+
+
+1. Identify if you can break down into smaller problems
+2. Write Recurrence Relation 
+3. Draw the recurssion tree
+4. About the tree
+5. see the flow of the function how they get into the stack
+6. identify & focus on left tree calls anf right tree calls
+7. Draw the tree and pointer again and again using pen and paper 
+8. use a debugger to see the flow of the function
+9. See how the value are returned at each step
+
+
+
+
+
+

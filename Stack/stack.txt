@@ -1,0 +1,62 @@
+1. Nearest Greater to Left
+2. Nearest Greater to Right (imp)
+3. Nearest Smallest to left (imp)
+4. Nearest Smallest to right
+
+
+5. Stock Span Problem
+6. Maximum Area of Hidtogram
+
+7. Map Area of Rectangle in Binary Matrix
+
+8. Rain Water Tapping
+9. Implementing a Min Stack (Extra Space and Without Extra Space)
+10.Implementing Stack using Heap
+11. The Celebrity Problem
+12. Longest valid Paranthesis
+13. Iterative Tower of Hanoi
+
+
+
+
+
+
+
+
+
+
+
+
+
+// IDENTIFICATION OF STACK PROBLEM
+1. Array
+2. O(n^2) 
+    Independet 
+    for(int i=0; i<n; i++)
+    for(int j=0; j<n; j++)
+
+    Dependent
+    for(int i=0; i<n; i++)
+    for(int j=0; j<i; j++)  // j is dependent on i
+
+    j ---> o to i  j++
+    j ---> i to 0  j--
+    j ---> i to n  j++
+    j ---> n to i  j--
+
+In any Second For loop any 4 above case there is always a chance of 100% chance of stack 
+Stack is Last In First Out Data Structure
+
+Function of Stack are...
+empty() :- Return Whether a Stack is empty or not 
+Size() :- Returns The Size of an array
+top() :- Returns Top Most Element of Stack
+push() :- Add Element to the Top of Stack
+pop() :- Delete Top Most Element
+
+All above Method take O(1) Time Complexity
+
+
+stack1.swap(stack) :- This function is used to swap the contents of one stack with another stack of same type but the size may vary.
+
+In stack container, the elements are printed in reverse order because the top is printed first then moving on to other elements.

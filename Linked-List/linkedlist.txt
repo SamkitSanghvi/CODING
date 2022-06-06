@@ -1,0 +1,28 @@
+Linked-List is a Linear Data structure Which is a collection of Node 
+(Data + address of Next node)
+
+why ?? 
+1. arr [10] ---> 100 ❌ we can't change the size of array at run time because
+2. vecto<int> arr(5) 
+--> if the size of vector is full it will create a new vector of double the size of current size and store the value --> new Storage + value copy
+
+3. Linked List
+1. Dynamic Data structure (grow and shrink at run time) --->  No Memory Wastage
+2. Insertion and Deletion is Easy ---> No shift Needed
+
+
+[Head]--->[5|710] ---> [8|810]---> [12|910]----> [13|Null]
+             710          810           910
+
+Types Of Linked List
+1.Singly LL
+2.Doubly LL
+3.Circular LL
+4.Doubly Circular LL
+
+
+
+
+IMP QUESTION
+
+1.  

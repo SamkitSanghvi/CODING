@@ -1,0 +1,80 @@
+When there is a Array and Repeative Work Think about sliding window 
+
+Identification
+1. Continuntity in Window
+2. Subarray or Substring 
+3. Largest or smallest 
+4. There is always a number k denoting Window Size 
+(nor Necessary some time we have to find the window size).
+
+There are 2 types of Sliding Window
+1. Fixed Size Window
+2. Variable Size Window
+
+
+2. Variable Size Window
+
+Largest Window 
+smallest window
+subjected to a condition 
+
+
+
+
+
+
+
+
+
+
+
+Problems of Sliding Window
+
+1. Fixed Window Size
+
+1. Max/Min sub array of size k
+2. 1st positive in every window size of k
+3. Count occurence of anagram
+4. Max of all subarray of size k 
+5. Max of min for every min size 
+
+
+2. Variable Window Size 
+
+1. Largest/Smallest Subarray of  sum k
+2. Largest Sub-String of k distinct character
+3. Length of Largest Substring with No repeating Character 
+4. Pick toy
+5. Minimum window substring
+
+
+✅209 
+🔒340
+395
+424
+480
+🔒487
+689
+✅713
+862
+✅904
+✅930
+✅992
+✅1004
+1208
+✅1248
+1234
+🔒1151
+1423
+✅1493
+1499
+1604
+1610
+1658
+1687
+1695
+1696
+1703
+1838
+2009
+2024

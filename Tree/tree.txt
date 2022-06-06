@@ -1,0 +1,9 @@
+Tree is a non-linear and Hirecherical Data Structures 
+
+Binary Tree :- At max there is 2 node in the tree (0,1,2)
+
+Inorder :- LNR
+
+PreOrder :- NLR
+
+PostOrder :- LRN

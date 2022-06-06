@@ -1,0 +1,15 @@
+prime no :- 2,3,5,7,11,13....
+
+Modulo Property 
+🌟 (a+b) % m = ((a%m)+(b%m)) % m
+🌟 (a+b) % m = ((a%m)-(b%m) + m) % m
+🌟 (a*b) % m = ((a%m)*(b%m)) % m
+🌟 (a/b) % m = ((a%m)*(b^-1 %m)) % m
+🌟 (a%m) % m = (a % m)
+🌟 m^x % m = 0  x>0
+
+b^-1 % m  = multiplicative modulo inversion  = b and m are coPrimes = only 1 common factor i.e is 1
+
+hcf of a and b is = min value of equation ax + by (x and y are integers)
+
+whatever hcf will you get 
